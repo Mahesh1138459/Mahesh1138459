@@ -1,7 +1,7 @@
 # Mahesh
 ### Data Analyst
 
-<img src = "https://github.com/Mahesh1138459/Mahesh1138459//blob/main/Data%20Science.jpeg" height = 300 width = 100%><img>
+<img src = "https://github.com/Mahesh1138459/Mahesh1138459/blob/main/Data%20Science.jpeg" height = 300 width = 100%><img>
 
 ### Welcome to my Github Profile
 
